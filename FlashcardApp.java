@@ -354,3 +354,4 @@ public class FlashcardApp {
         SwingUtilities.invokeLater(() -> new FlashcardApp());
     }
 }
+//LAST
